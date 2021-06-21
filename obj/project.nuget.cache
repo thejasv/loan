@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "opppnCNO+/hpJZ0xciSxwN3FkkGwpHIgcKrUBhKqZFUUiid4d8e4ZKdW4+6D1YjQ6hNtvkYrLiS3YeMO21N4cg==",
+  "success": true,
+  "projectFilePath": "D:\\edufolder\\LoanService\\LoanService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\THEJAS H V\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}
